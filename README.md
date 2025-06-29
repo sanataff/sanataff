@@ -37,4 +37,4 @@ I believe in learning by doing, and I’m always working on new ideas that combi
 
 ---
 
-> “Learning how to build things that matter.” 💡
+> “Coding stuff that matter.” 💡
